@@ -50,3 +50,4 @@ Tech Stack
 
 Tool: Microsoft Power BI Desktop
 Data Model: Employee-level fact table with Department, Training Type, Job Role, Performance Rating, Training Duration, and New Client Acquisition metrics
+![Dashboard Preview](https://github.com/hitz04/Employee-Training-ROI-Performance-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
